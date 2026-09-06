@@ -19,19 +19,3 @@ Merge the specified branch into the current branch.
 Delete a branch that has already been merged.
 
 
-## 🌿 Branch workflow
-#main
-  ↓
-#create branch
-  ↓
-switch to branch
-  ↓
-make changes
-  ↓
-commit
-  ↓
-switch to main
-  ↓
-merge branch
-  ↓
-delete branch
