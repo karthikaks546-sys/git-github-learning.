@@ -20,9 +20,9 @@ Delete a branch that has already been merged.
 
 
 ## 🌿 Branch workflow
-main
+#main
   ↓
-create branch
+#create branch
   ↓
 switch to branch
   ↓
